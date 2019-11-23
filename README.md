@@ -1,5 +1,4 @@
-# Adafruit motor shield  + bluetooth
- SPP
+# Adafruit motor shield  + bluetooth SPP
 
 Bluetooth remote control robot with adafruit motor shield
 
